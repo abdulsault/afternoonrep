@@ -1,2 +1,2 @@
 # afternoonrep
-This is the first git class
+This is the first git class. Aurhor khader
